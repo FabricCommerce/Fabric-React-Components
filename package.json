@@ -1,0 +1,25 @@
+{
+  "name": "react-components",
+  "version": "0.0.1",
+  "description": "sample react components to be used",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabricCommerce/Fabric-React-Components.git"
+  },
+  "keywords": [
+    "react",
+    "components",
+    "headless",
+    "ecommerce"
+  ],
+  "author": "fabric",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FabricCommerce/Fabric-React-Components/issues"
+  },
+  "homepage": "https://github.com/FabricCommerce/Fabric-React-Components#readme"
+}
